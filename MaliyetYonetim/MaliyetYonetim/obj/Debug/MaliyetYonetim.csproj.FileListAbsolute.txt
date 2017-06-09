@@ -1,0 +1,54 @@
+c:\users\caner\documents\visual studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.exe.config
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.exe.config
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.exe
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.pdb
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.csprojResolveAssemblyReference.cache
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Form1.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Gelir.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Gider.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Malzeme.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Musteri.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Personel.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Properties.Resources.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Satis.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Siparis.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Stok.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Tur.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Urunler.resources
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.csproj.GenerateResource.Cache
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.exe
+C:\Users\Mc-PC\Desktop\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.pdb
+C:\Users\Caner\Desktop\652017MaliyetYonetim\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.exe.config
+C:\Users\Caner\Desktop\652017MaliyetYonetim\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.exe
+C:\Users\Caner\Desktop\652017MaliyetYonetim\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.pdb
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.exe
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.pdb
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Gelir.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Gider.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Malzeme.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Personel.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Properties.Resources.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Satis.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Siparis.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Stok.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Tur.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Urunler.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.csproj.GenerateResource.Cache
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.exe
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\MaliyetYonetim.pdb
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Cins.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Musteri.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.csprojResolveAssemblyReference.cache
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Anasayfa.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Giris.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Form1.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\obj\Debug\MaliyetYonetim.Raporlar.resources
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\ClosedXML.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\LinqToExcel.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\Remotion.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\Remotion.Interfaces.dll
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\ClosedXML.pdb
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\ClosedXML.xml
+C:\Users\Caner\Documents\Visual Studio 2015\Projects\MaliyetYonetim\MaliyetYonetim\bin\Debug\LinqToExcel.xml
